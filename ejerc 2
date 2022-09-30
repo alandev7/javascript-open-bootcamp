@@ -1,0 +1,12 @@
+
+var str = "alan";
+
+soy desarrollador = true;
+
+const fecha = new Date("29 de septiembre de 2022") 
+
+const libro = {
+    titulo: "el señor de los anillos";
+    Autor: "tolkien";
+    fecha: 1983;
+}
